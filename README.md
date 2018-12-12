@@ -8,7 +8,7 @@ CLD seeks to provide an extensive, understandable, *common* **documentation** fo
 
 ## Why?
 
-I had a conversation with a colleague today (2018-12-12) (ISO 8601), and we came upon the following conclusion: the [Python documentation](https://docs.python.org) are intrinsically beautiful ^([but not exempt](./#do-we-exclude-py))
+I had a conversation with a colleague today (2018-12-12) (ISO 8601), and we came upon the following conclusion: the [Python documentation](https://docs.python.org) are intrinsically beautiful <sup>[but not exempt](#do-we-exclude-py)</sup>.
 
 From grammar, to concepts, to standard library example, to standard library internal documentation, it is truly beautiful.
 
